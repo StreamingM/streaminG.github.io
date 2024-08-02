@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Aug 2024 13:13:07 at https://streamxplayer1.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://streamxplayer1.com/ -O1 "C:\My Web Sites\Prueba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:13:09	Warning: 	Found for https://streamxplayer1.com/robots.txt
+13:13:09	Warning: 	File has moved from https://streamxplayer1.com/robots.txt to https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2Frobots.txt
+13:13:10	Warning: 	Found for https://streamxplayer1.com/
+13:13:10	Warning: 	File has moved from https://streamxplayer1.com/ to https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2F
+13:15:35	Error: 	"Method Not Allowed" (405) at link https://streamxplayer1.com/xmlrpc.php (from https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2F)
+13:15:35	Warning: 	Found for https://streamxplayer1.com/feed/
+13:15:35	Warning: 	File has moved from https://streamxplayer1.com/feed/ to https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2Ffeed%2F
+13:15:35	Warning: 	Found for https://streamxplayer1.com/comments/feed/
+13:15:35	Warning: 	File has moved from https://streamxplayer1.com/comments/feed/ to https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2Fcomments%2Ffeed%2F
+13:16:14	Warning: 	Moved Permanently for https://streamxplayer1.com/?p=1992
+13:16:14	Warning: 	File has moved from https://streamxplayer1.com/?p=1992 to https://streamxplayer1.com/login/
+13:16:14	Warning: 	Found for https://streamxplayer1.com/my-account/
+13:16:14	Warning: 	File has moved from https://streamxplayer1.com/my-account/ to https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2Fmy-account%2F
+13:16:14	Warning: 	Found for https://streamxplayer1.com/author/smgx20gmail-com/
+13:16:14	Warning: 	File has moved from https://streamxplayer1.com/author/smgx20gmail-com/ to https://streamxplayer1.com/login/?redirect_to=https%3A%2F%2Fstreamxplayer1.com%2Fauthor%2Fsmgx20gmail-com%2F
+13:16:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://streamxplayer1.com/wp-content/themes/porto/fonts/Simple-Line-Icons/Simple-Line-Icons.eot (from https://streamxplayer1.com/wp-content/themes/porto/css/plugins.css?ver=6.6.1)
+13:16:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://streamxplayer1.com/wp-content/themes/porto/fonts/Simple-Line-Icons/Simple-Line-Icons.ttf (from https://streamxplayer1.com/wp-content/themes/porto/css/plugins.css?ver=6.6.1)
+13:16:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://streamxplayer1.com/wp-content/themes/porto/fonts/Simple-Line-Icons/Simple-Line-Icons.svg (from https://streamxplayer1.com/wp-content/themes/porto/css/plugins.css?ver=6.6.1)
+13:16:31	Warning: 	Moved Permanently for https://streamxplayer1.com/?p=1993
+13:16:31	Warning: 	File has moved from https://streamxplayer1.com/?p=1993 to https://streamxplayer1.com/register/
+13:16:31	Warning: 	Moved Permanently for https://streamxplayer1.com/?p=1997
+13:16:31	Warning: 	File has moved from https://streamxplayer1.com/?p=1997 to https://streamxplayer1.com/password-reset/
+13:16:31	Warning: 	File not parsed, looks like binary: https://streamxplayer1.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+13:16:31	Warning: 	File not parsed, looks like binary: https://streamxplayer1.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 272 links scanned, 259 files written (14865705 bytes overall) [14599600 bytes received at 71566 bytes/sec], 497542 bytes transferred using HTTP compression in 8 files, ratio 31%, 6.9 requests per connection
+(1 errors, 23 warnings, 0 messages)
